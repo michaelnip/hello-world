@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Just another repository to test commits and pull requests
